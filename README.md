@@ -1,5 +1,6 @@
 Einföld skrifta sem reiknar út heildarverðgildi íslensks klinks út frá þyngd þess.
 
+Niðurhalstenglar:
 
 ## FAQ  
 #### Hvernig virkar þetta? ####
@@ -11,4 +12,4 @@ Nei
 #### Hversu nákvæmt er þetta? ####
 Skekkjan hefur reynst vel innan við 1%
 #### Kostar þetta eitthvað? ####
-Nei
+Nei, hvorki til einkaafnota né "commercial use"
