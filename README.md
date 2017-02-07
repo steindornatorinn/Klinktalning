@@ -1,7 +1,7 @@
 Einföld skrifta sem reiknar út heildarverðgildi íslensks klinks út frá þyngd þess.
 
 
-## FAQ ## 
+## FAQ  
 #### Hvernig virkar þetta? ####
 Sorteraðu allt klinkið þitt, settu það í uppáhalds bollann þinn og skelltu því á vigtina og stimplaðu þyngdina inn í forritið og það segir þér hversu mikið þetta er í krónum.
 #### Má þetta? ####
