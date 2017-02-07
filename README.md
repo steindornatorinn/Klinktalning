@@ -12,4 +12,4 @@ Nei
 #### Hversu nákvæmt er þetta? ####
 Skekkjan hefur reynst vel innan við 1%, og ég vil kenna kassastarfsfólki sem ruglar klinkinu mínu saman fyrir hana frekar en forritinu.
 #### Kostar þetta eitthvað? ####
-Nei, hvorki til einkaafnota né "commercial use"
+Nei, hvorki til einkaafnota né "commercial use". License skráin lýsir smáatriðunum betur.
