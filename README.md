@@ -10,6 +10,6 @@ Já
 #### En er þetta ekki allt of ónákvæmt? ###
 Nei
 #### Hversu nákvæmt er þetta? ####
-Skekkjan hefur reynst vel innan við 1%
+Skekkjan hefur reynst vel innan við 1%, og ég vil kenna kassaastarfsfólki sem ruglar klinkinu mínu saman fyrir hana frekar en forritinu.
 #### Kostar þetta eitthvað? ####
 Nei, hvorki til einkaafnota né "commercial use"
