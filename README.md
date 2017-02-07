@@ -1,6 +1,7 @@
 Einföld skrifta sem reiknar út heildarverðgildi íslensks klinks út frá þyngd þess.
 
 Niðurhalstenglar:
+
 [Win-64](https://a.cocaine.ninja/vuzshh.exe)
 
 ## FAQ  
