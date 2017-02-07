@@ -15,5 +15,5 @@ Nei
 Skekkjan hefur reynst vel innan við 1%.
 #### Kostar þetta eitthvað? ####
 Nei, hvorki til einkaafnota né "commercial use". License skráin lýsir smáatriðunum betur.
-#### Nennira gera app? ####
+#### Nennira gera app:poop:? ####
 n
