@@ -6,20 +6,20 @@ WEIGHT_10 = 6.9
 WEIGHT_5 = 6.5
 WEIGHT_1 = 4.5
 
-WELCOME_MESSAGE = u""
-IN_MESSAGE_100 = u""
-IN_MESSAGE_50 = u""
-IN_MESSAGE_10 = u""
-IN_MESSAGE_5 = u""
-IN_MESSAGE_1 = u""
-IN_MESSAGE_CONTAINER = u""
+WELCOME_MESSAGE = u"Athugið að þetta forrit tekur allar upplýsingar inn sem tölur í grömmum. t.d skal tákna 4 kíló og 350 grömm sem 4350"
+IN_MESSAGE_100 = u"Stimplið inn þyngd Hundraðkallanna\n"
+IN_MESSAGE_50 = u"Stimplið inn þyngd fimmtíukallanna\n"
+IN_MESSAGE_10 = u"Stimplið inn þyngd tíkallanna\n"
+IN_MESSAGE_5 = u"Stimplið inn þyngd fimmkallanna\n"
+IN_MESSAGE_1 = u"Stimplið inn þyngd einakrónanna\n"
+IN_MESSAGE_CONTAINER = u"Stimplið inn þyngd ílatsins sem klinkið var vigað í, sláið inn 0 ef þetta á ekki við\n"
 
-OUT_MESSAGE_100 = u""
-OUT_MESSAGE_50 = u""
-OUT_MESSAGE_10 = u""
-OUT_MESSAGE_5 = u""
-OUT_MESSAGE_1 = u""
-OUT_MESSAGE_TOTAL = u"over"
+OUT_MESSAGE_100 = u"Heildarvirði hundraðkallanna: "
+OUT_MESSAGE_50 = u"Heildarvirði fimmtíukallanna: "
+OUT_MESSAGE_10 = u"Heildarvirði tíkallanna: "
+OUT_MESSAGE_5 = u"Heildarvirði fimmkallanna: "
+OUT_MESSAGE_1 = u"Heildarvirði einakrónanna: "
+OUT_MESSAGE_TOTAL = u"Heildarvirði: "
 
 print(WELCOME_MESSAGE)
 container_weight = input(IN_MESSAGE_CONTAINER)
