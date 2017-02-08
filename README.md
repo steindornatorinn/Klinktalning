@@ -14,6 +14,6 @@ Nei
 #### Hversu nákvæmt er þetta? ####
 Skekkjan hefur reynst vel innan við 1%.
 #### Kostar þetta eitthvað? ####
-Nei, hvorki til einkaafnota né almennrar notkunar. License skráin lýsir smáatriðunum betur.
+Nei, hvorki fyrir einstaklinga né fyrirtæki. Enski lögfræðitextinn í License skráinni lýsir smáatriðunum betur.
 #### Nennira gera app:poop:? ####
 n
