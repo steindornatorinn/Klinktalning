@@ -2,6 +2,7 @@ Einföld skrifta sem reiknar út heildarverðgildi íslensks klinks út frá þy
 
 Niðurhalstenglar:
 *  [Win-64](https://a.cocaine.ninja/nagquu.zip)
+*  [Python kóði](https://a.cocaine.ninja/pbgipa.py)
 
 Annars geta allir installað python 2.7 og keyrt .py skránna hér fyrir ofan beint, svo sem makka og GNU/Linux menn.
 ## FAQ  
@@ -16,4 +17,3 @@ Skekkjan hefur reynst vel innan við 1%.
 #### Kostar þetta eitthvað? ####
 Nei, hvorki fyrir einstaklinga né fyrirtæki. Enski lögfræðitextinn í License skráinni lýsir smáatriðunum betur.
 #### Nennira gera app:poop:? ####
-n
