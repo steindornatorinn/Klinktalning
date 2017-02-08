@@ -16,4 +16,7 @@ Nei
 Skekkjan hefur reynst vel innan við 1%.
 #### Kostar þetta eitthvað? ####
 Nei, hvorki fyrir einstaklinga né fyrirtæki. Enski lögfræðitextinn í License skráinni lýsir smáatriðunum betur.
+#### Þetta virkar ekki ####
+Búðu til issue hér fyrir ofan og passaðu að lýsa tölvuumhverfinu þínu vel. Vandamálið verður þá jafnvel lagað einn daginn.
 #### Nennira gera app:poop:? ####
+n
