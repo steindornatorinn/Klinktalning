@@ -1,7 +1,7 @@
 Einföld skrifta sem reiknar út heildarverðgildi íslensks klinks út frá þyngd þess.
 
 Niðurhalstenglar:
-*  [Win-64](https://a.cocaine.ninja/vuzshh.exe)
+*  [Win-64](https://a.cocaine.ninja/nagquu.zip)
 
 Annars geta allir installað python 2.7 og keyrt .py skránna hér fyrir ofan beint, svo sem makka og GNU/Linux menn.
 ## FAQ  
