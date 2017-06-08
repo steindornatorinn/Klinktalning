@@ -19,4 +19,4 @@ Nei, hvorki fyrir einstaklinga né fyrirtæki. Enski lögfræðitextinn í Licen
 #### Þetta virkar ekki ####
 Búðu til issue hér fyrir ofan og passaðu að lýsa tölvuumhverfinu þínu vel. Vandamálið verður þá jafnvel lagað einn daginn.
 #### Nennira gera app:poop:? ####
-n
+[Ómar](https://github.com/Omarvk) er búinn að skella í slíkt, það er ekkert github repo en mér skilst að hann selji það á hlemm á milli 12 og 1 á virkum dögum.
